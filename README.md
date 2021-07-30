@@ -4,11 +4,7 @@
 
 👩‍💻 About Me
 
-- 🎓 I’m studying Computer Engineering at UDELAR.
-- ⚡  In my free time I'm always trying to learn something new, definitly I'm an autodidact person.
-- 🌱 I'm currently in search of my first work experience.
-- 🤔 I’m looking for help with ...
-- 💬 How to reach me: paolaromayb27@gmail.com
+
 
 Skills: VUE JS / REACT / JS / HTML / CSS
 
