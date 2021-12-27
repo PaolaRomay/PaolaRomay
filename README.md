@@ -1,5 +1,4 @@
 ### Hi there 👋, my name is Paola
-#### I am GitHub Readme Generator's creator
 
 👩‍💻 About Me
 
