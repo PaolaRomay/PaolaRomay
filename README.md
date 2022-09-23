@@ -2,7 +2,7 @@
 
 👩‍💻 About Me
 
-Skills: VISUAL BASIC .NET / C++ / MYSQL / JS / HTML / CSS
+Skills: VISUAL BASIC .NET / C++ / MYSQL / JS / HTML / CSS / JAVA
 
 - 🔭 I’m currently working on this page. 
 
